@@ -24,6 +24,10 @@ Or alternatively, using some tools to help me organize my notes in a single plac
 
 ### Voice note parser
 
+### Front End
+
+https://fastht.ml/
+
 ## Dev Notes
 
 Need to track token usage at all times if calling external models
