@@ -7,15 +7,15 @@ Or alternatively, using some tools to help me organize my notes in a single plac
 ## Features
 
 ### PDF Notes (from papers)
-[ ] Read and extract handwriting and highlights from PDF papers
-  [ ] Extract the title of the paper (either via file name or extracting from top of PDF)
-  [ ] Call arxiv API to get the paper contents for summarization and context
-  [ ] Convert the PDF into images to read the handwriting and extract the highlighted portion
-  [ ] Output to a standard markdown template
+- [ ] Read and extract handwriting and highlights from PDF papers
+  - [ ] Extract the title of the paper (either via file name or extracting from top of PDF)
+  - [ ] Call arxiv API to get the paper contents for summarization and context
+  - [ ] Convert the PDF into images to read the handwriting and extract the highlighted portion
+  - [ ] Output to a standard markdown template
 
 ### AI Note Organizer
-[ ] Use local model to organize notes
-  [ ] Look into Nvidia model containers as mentioned by Outerbounds
+- [ ] Use local model to organize notes
+  - [ ] Look into Nvidia model containers as mentioned by Outerbounds
 
 ### Publish notes
 
