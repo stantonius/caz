@@ -13,16 +13,27 @@ Or alternatively, using some tools to help me organize my notes in a single plac
   - [ ] Convert the PDF into images to read the handwriting and extract the highlighted portion
   - [ ] Output to a standard markdown template
 
+### Quick Articles
+- [ ] Extract the context of any additional text sent along with the link to article
+- [ ] Parse the contents of the link and summarise *based on the context provided*
+- [ ] Extract the context 
+
+### Quick Notes
+- [ ] Tag and categorize - eventually want to be able to 
+
 ### AI Note Organizer
 - [ ] Use local model to organize notes
   - [ ] Look into Nvidia model containers as mentioned by Outerbounds
 
 ### Publish notes
+- [ ] First send a review of changes and proposed edits/posts (via email or Whatsapp)
+  - [ ] Add a cancel or edit button   
 
 
 ### Quizer
 
 ### Voice note parser
+- [ ] CGPT to go back and forth and then send a summary to email or upload directly to Drive, where its then parsed like a quick note
 
 ### Front End
 
